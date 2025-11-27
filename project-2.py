@@ -1,3 +1,5 @@
+#simple calculater
+
 print(" Simple Calculator ")
 
 while True:
