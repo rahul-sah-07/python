@@ -1,5 +1,4 @@
 # File-Transfer-App
-
 import socket
 
 HOST = ""   
